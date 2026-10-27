@@ -8,19 +8,7 @@ Notes are persisted using the browser's **Local Storage**, so they remain availa
 
 ## 🚀 Live Demo
 
-> Add your GitHub Pages deployment URL here after deploying the project.
-
-**Live Demo:** `https://your-username.github.io/Notes-App/`
-
----
-
-## 📸 Preview
-
-*Add a screenshot of the Notes App here if you have one.*
-
-```md
-![Notes App Screenshot](notes-app-screenshot.png)
-```
+ https://khushichaubey-493.github.io/Notes-App/
 
 ---
 
