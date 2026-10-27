@@ -8,7 +8,8 @@ Notes are persisted using the browser's **Local Storage**, so they remain availa
 
 ## 🚀 Live Demo
 
- https://khushichaubey-493.github.io/Notes-App/
+https://khushichaubey-493.github.io/Notes-App/
+
 
 ---
 
